@@ -3,7 +3,7 @@ GUID dbeb4ddfa1ca4ef999a64398daaa50a9
 Type Spawn
 ID 28306
 
-Tables 23
+Tables 30
 Table_0_Asset_ID 27280
 Table_0_Weight 20
 Table_1_Asset_ID 28099
@@ -50,3 +50,17 @@ Table_21_Asset_ID 27838
 Table_21_Weight 100
 Table_22_Asset_ID 27740
 Table_22_Weight 100
+Table_23_Asset_ID 297
+Table_23_Weight 100
+Table_24_Asset_ID 1143
+Table_24_Weight 100
+Table_25_Asset_ID 1436
+Table_25_Weight 100
+Table_26_Asset_ID 116
+Table_26_Weight 100
+Table_27_Asset_ID 300
+Table_27_Weight 100
+Table_28_Asset_ID 132
+Table_28_Weight 100
+Table_29_Asset_ID 1445
+Table_29_Weight 100
