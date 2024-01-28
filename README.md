@@ -14,7 +14,7 @@
 
 > - In **T1 Beacon**, these were added with a weight of `50`, making it spawn as often as **spec ops clothing** does in T1
 > - In **T2 Beacon**, these were added with a weight of `75`, making it spawn as often as the **10x smokes** does in T2
-> - In **T3 Beacon**, these were added with a weight of `100`, making it spawn as often as the **10x glue/chems/tape/raw explosive** does in T3
+> - In **T3 Beacon**, these were added with a weight of `100`, making it spawn as often as the **10x glues/chems/tapes/raw explosives** do in T3
 
 | New Items                                                           | Used to craft                   |
 | ------------------------------------------------------------------- | ------------------------------- |
